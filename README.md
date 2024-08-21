@@ -1,2 +1,4 @@
-# my_profile_db
-My profile
+🖐🏼 Hi, im Daan Bouma
+💻 Fullstack 
+📂 7 ongoing projects
+📊 I like creating things!
